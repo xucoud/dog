@@ -1,0 +1,13 @@
+server:
+  port: 8083
+  servlet:
+    context-path: /dev
+pageSize: 20
+devName: 紫陌飞雪
+
+content: "pageSize:${pageSize}，devName:${devName}"
+
+dev:
+  name: 紫陌飞雪
+  age: 26
+  id: 365
